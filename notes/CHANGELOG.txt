@@ -1,0 +1,2 @@
+/* rev-a9c41e-20260917 */
+v3.2.3 lsfg 3 pacing, wgc fallback, profile auto detect
